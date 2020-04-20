@@ -1,0 +1,3 @@
+org.springframework.boot.SpringApplicationRunListener=com.cmdc.nge.commonmq.core.utils.XyatticSpringApplicationRunListener
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.cmdc.nge.commonmq.core.autoconfigure.CommonMqAutoConfiguration
